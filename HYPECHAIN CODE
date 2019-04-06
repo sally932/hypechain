@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>HYPECHAIN</title>
+	<link rel="sylesheet" href="styles.css">
+	<!-- allez relax lol -->
+</head>
+<body> 
+    <!-- pour le responsive -->
+    <style>
+img {
+  max-width: 100%;
+  height: auto;
+}
+</style>
+    <!-- HYPECHAIN EN SOI -->
+<img src="images/BON FIChier.jpg" alt="hypechain" width="1980" height="1080">
+    
+    <!-- l'audio en autoplay -->
+
+</body>
+</html>
